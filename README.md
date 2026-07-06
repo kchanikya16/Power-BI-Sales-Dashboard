@@ -71,7 +71,7 @@ The dataset contains information related to:
 
 ### 📈 KPI Overview
 
-![KPI Overview](screenshots of dashboard/kpi-overview.png)
+![KPI Overview](screenshots/kpi-overview.png)
 
 ---
 
